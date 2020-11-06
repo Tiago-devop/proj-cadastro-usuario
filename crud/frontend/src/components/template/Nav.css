@@ -12,7 +12,7 @@ aside.menu-area {
     font-weight: 300;
     padding: 15px;
 }
-
+/* hover não está funcionando */
 menu a:hover {
     background: linear-gradient(135deg, #07a7e3 0%, #32dac3 100%);
 }
